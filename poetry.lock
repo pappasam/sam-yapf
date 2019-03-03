@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "A formatter for Python code."
+name = "yapf"
+optional = false
+python-versions = "*"
+version = "0.26.0"
+
+[metadata]
+content-hash = "7454c48fedd588cf25d691897e59455e2c2762fab4de11f37e429468f9bdb5b0"
+python-versions = "^3.7"
+
+[metadata.hashes]
+yapf = ["edb47be90a56ca6f3075fe24f119a22225fbd62c66777b5d3916a7e9e793891b", "f58069d5e0df60c078f3f986b8a63acfda73aa6ebb7cd423f6eabd1cb06420ba"]
