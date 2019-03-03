@@ -2,3 +2,6 @@
 
 ## Default
 based_on_style = sam_roeca
+
+## Overrrides (not a good idea, it's just to prove this works)
+indent_width = 2
